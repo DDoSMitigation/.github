@@ -1,12 +1,4 @@
-## Hi there 👋
+## 한국정보기술연구원(KITRI) 화이트햇 스쿨 2기 - None
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 것을 목표로 하고 있습니다.
+- 누구나 무료로 안전한 인프라를 구성하는 것이 프로젝트 목표입니다.

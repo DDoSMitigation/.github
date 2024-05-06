@@ -6,10 +6,10 @@
 ### 멘토
 - 박건호, 테이텀 시큐리티
 
-### PL(Project Leader)
+### PL(프로젝트 리더)
 - 곽송이, 테이텀 시큐리티
 
-### PM(Project Manager)
+### PM(프로젝트 매니저)
 - 함준형, 배재대학교
 
 ### 팀원
@@ -20,7 +20,9 @@
 - 김도현, 강릉원주대학교
 - 라민우, 건국대학교
 
-##### Network Information
-- Network: AS216362(Ham Jun Hyeong)
-- Upstreams: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
-- Anycast Network : AS199524(G-Core Labs S.A.)
+##### 네트워크 정보
+-네트워크: AS216362 (함준형)
+-업스트림: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
+-애니캐스트 네트워크 : AS199524 (G-Core Labs S.A.)
+
+[홈페이지](https://kitri-whs-2nd-ddos-mitigation-ebpf-xdp.github.io/)

@@ -19,3 +19,8 @@
 - 지도환, 한밭대학교
 - 김도현, 강릉원주대학교
 - 라민우, 건국대학교
+
+##### Network Information
+- Network: AS216362(Ham Jun Hyeong)
+- Upstreams: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
+- Anycast Network : AS199524(G-Core Labs S.A.)

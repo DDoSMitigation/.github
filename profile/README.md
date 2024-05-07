@@ -21,8 +21,8 @@
 - 라민우, 건국대학교
 
 ##### 네트워크 정보
--네트워크: AS216362 (함준형)
--업스트림: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
--애니캐스트 네트워크 : AS199524 (G-Core Labs S.A.)
+- 네트워크: AS216362 (함준형)
+- 업스트림: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
+- 애니캐스트 네트워크 : AS199524 (G-Core Labs S.A.)
 
 [홈페이지](https://kitri-whs-2nd-ddos-mitigation-ebpf-xdp.github.io/)

@@ -25,4 +25,4 @@
 - 업스트림: AS20473(The Constant Company, LLC), AS199524(G-Core Labs S.A.)
 - 애니캐스트 네트워크 : AS199524 (G-Core Labs S.A.)
 
-[홈페이지](https://kitri-whs-2nd-ddos-mitigation-ebpf-xdp.github.io/)
+[홈페이지](https://ddos-mitigation.github.io/)

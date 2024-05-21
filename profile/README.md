@@ -1,4 +1,4 @@
-# 한국정보기술연구원(KITRI) 화이트햇 스쿨 2기
+# 한국정보기술연구원 화이트햇 스쿨 2기 프로젝트
 
 ## 프로젝트 개요
 저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 것을 목표로 하며, 누구나 무료로 안전한 인프라를 구성하는 것을 프로젝트 목표로 하고 있습니다.
@@ -32,30 +32,37 @@
 ## 일정
 
 ### 4월
-- **25일:** 레퍼런스 서치
-- **29일:** 온라인 미팅
+- **25일:** 논문, 오픈소스, 기술 정의, 공식문서 등 각종 참고할 문서 검색
+- **29일:** 온라인 미팅, 깃헙 생
 - **30일:** 팀원 회의
 
 ### 5월
 - **3일:** 논문 리뷰 중간 점검
-- **6일:** 온라인 미팅
+- **5일:** BGP flowspec AS216362 적용 방안에 대한 논의
+- **6일:** 온라인 미팅, GSLB 적용 방안 논의
+- **7일:** XDP Firewall 적용 방안 논의
+- **9일:** 민우, 준형 XDP 악성 패킷 차단 솔루션 개발, 공식적으로 논문 리뷰할 것들 서치
 - **10일:** 팀원 회의
-- **13일:** 격주 보고서 초안 작성, 온라인 미팅, 팀원 회의
-- **14일:** 격주 보고서 초안 검토 및 피드백
-- **15일:** 격주 보고서 피드백 반영, 논문 초안 피드백
+- **11일:** DDoS 공격 종류 및 각 공격별 대응 방안 조사
+- **13일:** 격주 보고서 초안 작성, 온라인 미팅, 팀원 회의, 논문 작성 시작, 배재대학교 함형민 교수님 논문 및 프로젝에 대한 멘토링
+- **14일:** 격주 보고서 초안 검토 및 피드백, 도현 개발 솔루션 합류, Electrode: Accelerating Distributed Protocols with eBPF, BPFast: 클라우드 환경을 위한 eBPF/XDP 기반 고속 네트워크 패킷 페이로드 검사 시스템, eBPF/XDP Based Network Traffic Visualization and DoS Mitigation for Intelligent Service Protection, The eXpress Data Path (XDP): Fast Programmable Packet Processing in the Operating System Kernel, cilium bgp xdp docs, AWS 사용계획서 제출 후 KITRI 지원 예정
+- **15일:** 격주 보고서 피드백 반영, 내부 팀원끼리 논문 초안 피드백, 논문 1차 초안 작성
 - **16일:** 격주 보고서 마무리
-- **17일:** 격주 보고서 제출 (도환, 도현)
-- **18일:** 논문 리뷰
+- **17일:** 격주 보고서 제출 (도환, 도현), 한국해양대학교 이민투 교수님 논문 초안 피드백
+- **18일:** 논문 리뷰, 세미나 발표 정리, 보안 솔루션 개발
   - 강성원: "BGP Anycast Tuner Intuitive Route Management for Anycast Services"
   - 최홍석: "Routing Around Congestion Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing"
   - 지도환: "DDoS Mitigation AMeasurement-Based Approach & Understanding the Behaviors of BGP-based DDoS Protection Services"
-- **19일:** 논문 리뷰
+- **19일:** 논문 리뷰, 세미나 발표 정리, 
   - 함준형: "Anycast Agility Network Playbooks to Fight DDoS"
   - 라민우: "Fast packet processing with ebpf and xdp: Concepts, code, challenges, and applications"
   - 임정훈: "Extended Berkeley Packet Filter: An Application Perspective"
   - 김도현: "An eBPF-XDP hardware-based network slicing architecture for future 6G front to back haul networks"
+- **20일:** DoS 공격 코드 생성, flowchart 제작, 중간 발표를 위한 지금까지 했던 것들 정리
+- **21일:** ELK Stack 컨테이너 생성 및 가이드라인 제작, 논문 피드백 반영, 추가 레퍼런스 서치, DPI 솔루션 개발
+- **22일:** 내부 중간 점검
 - **25일:** 온라인 중간 발표
-- **26일:** 회식
+- **26일:** 대전 오프라인 회식
 - **31일:** 격주 보고서 제출 (홍석, 정훈)
 
 ### 6월
@@ -73,8 +80,12 @@
 ### 개별 할 일
 - **도환, 도현:** 격주 보고서 초안 작성 (완료)
 - **준형, 민우:** XDP 보안 코드 개발 (완료)
-- **홍석:** DDoS 공격 종류 및 각 공격 유형별 대응 방안 조사 (5월 11일 완료)
+- **홍석:** DDoS 공격 종류 및 각 공격 유형별 대응 방안 조사 (완료)
 - **성원, 정훈, 준형:** 논문 초안 작성 (완료)
+
+- **준형, 민우, 도현:** XDP, DPI 보안 솔루션 개발
+- **준형, 성원:** 논문 피드백 반영 및 논문 작성
+- **정훈:** ELK 스택 환경 구축
 
 ### 논문 요약 및 번역 완료
 - **준형:** "Anycast Agility Network Playbooks to Fight DDoS"

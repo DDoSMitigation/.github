@@ -96,17 +96,18 @@
 - **정훈:** "Extended Berkeley Packet Filter: An Application Perspective"
 - **도현:** "An eBPF-XDP hardware-based network slicing architecture for future 6G front to back haul networks"
 
-## 오픈소스 가이드라인 작성, docker 컨테이너 배포
-- **Zeek:** 완료
-- **Arkime:** 완료
-- **BCC:** 완료
-- **Suricata:** 완료
-- **BGP Tool:** 완료
-- **XDP Firewall:** 완료
-- **GPT-2:** 완료
-- **BGP Anycast Tuner:** 완료
-- **nDPI:** 완료
-- **Security Onion:** 완료
+## 오픈소스 가이드라인 작성, docker 컨테이너 배포 리스트
+- **Zeek**
+- **Arkime**
+- **BCC**
+- **Suricata**
+- **BGP Tool**
+- **XDP Firewall**
+- **GPT-2**
+- **BGP Anycast Tuner**
+- **nDPI**
+- **Security Onion**
+- **ELK Stack**
 
 ## 논문 핵심
 - **핵심:** 대용량 패킷을 BGP를 이용한 Anycast 구축으로 패킷을 분산시킴. BGP Flowspec, eBPF/XDP를 이용해 악성 패킷을 분류 및 필터링하여 대용량 패킷부터 세밀한 패킷까지 정교하게 필터링 하는 방법 제시. DPI를 통해 악성 행위 판단.

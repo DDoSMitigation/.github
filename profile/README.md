@@ -16,7 +16,7 @@
 
 ### 팀원
 - **강성원** (배재대학교)
-- **최홍석** (전북대학교)
+- **최홍석** (전북대학교) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **임정훈** (조선대학교)
 - **지도환** (한밭대학교)
 - **김도현** (강릉원주대학교)

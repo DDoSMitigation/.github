@@ -67,11 +67,13 @@
 
 ### 6월
 - **1일:** 이민우 교수님 논문 피드백
+- **3일:** 박건호 멘토님 프로젝트 피드백
 - **14일:** 격주 보고서 제출 (성원, 준형)
 - **28일:** 격주 보고서 제출 (민우)
 
 ### 7월
-- **6일:** 오프라인 최종 발표
+- **6일:** ~~오프라인 최종 발표~~
+- **14일:** 오프라인 최종 발표(연기됨됨)
 
 ## 해야 할 일
 
@@ -99,15 +101,15 @@
 
 ## 오픈소스 가이드라인 작성, docker 컨테이너 배포 리스트
 - **Zeek**
-- **Arkime**
+- **Arkime**~~(Reject)~~
 - **BCC**
 - **Suricata**
 - **BGP Tool**
 - **XDP Firewall**
-- **GPT-2**
-- **BGP Anycast Tuner**
+- **GPT-2**~~(Reject)~~
+- **BGP Anycast Tuner**~~(Reject)~~
 - **nDPI**
-- **Security Onion**
+- **Security Onion**~~(Reject)~~
 - **ELK Stack**
 
 ## 논문 핵심

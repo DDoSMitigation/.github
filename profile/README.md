@@ -18,7 +18,7 @@
 - **강성원** (배재대학교)
 - **최홍석** (전북대학교) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **임정훈** (조선대학교)
-- **지도환** (한밭대학교)
+- **지도환** (국립한밭대학교) [LinkedIn](www.linkedin.com/in/dohwan-ji-080a34301)
 - **김도현** (강릉원주대학교)
 - **라민우** (건국대학교)
 
@@ -45,10 +45,17 @@
 - **10일:** 팀원 회의
 - **11일:** DDoS 공격 종류 및 각 공격별 대응 방안 조사
 - **13일:** 격주 보고서 초안 작성, 온라인 미팅, 팀원 회의, 논문 작성 시작, 배재대학교 함형민 교수님 논문 및 프로젝에 대한 멘토링
-- **14일:** 격주 보고서 초안 검토 및 피드백, 도현 개발 솔루션 합류, Electrode: Accelerating Distributed Protocols with eBPF, BPFast: 클라우드 환경을 위한 eBPF/XDP 기반 고속 네트워크 패킷 페이로드 검사 시스템, eBPF/XDP Based Network Traffic Visualization and DoS Mitigation for Intelligent Service Protection, The eXpress Data Path (XDP): Fast Programmable Packet Processing in the Operating System Kernel, cilium bgp xdp docs, AWS 사용계획서 제출 후 KITRI 지원 예정
+- **14일:**
+  - 격주 보고서 초안 검토 및 피드백
+  - 도현 개발 솔루션 합류
+  - Electrode: Accelerating Distributed Protocols with eBPF
+  - BPFast: 클라우드 환경을 위한 eBPF/XDP 기반 고속 네트워크 패킷 페이로드 검사 시스템
+  - eBPF/XDP Based Network Traffic Visualization and DoS Mitigation for Intelligent Service Protection
+  - The eXpress Data Path (XDP): Fast Programmable Packet Processing in the Operating System Kernel
+  - cilium bgp xdp docs, AWS 사용계획서 제출 후 KITRI 지원 예정
 - **15일:** 격주 보고서 피드백 반영, 내부 팀원끼리 논문 초안 피드백, 논문 1차 초안 작성
 - **16일:** 격주 보고서 마무리
-- **17일:** 격주 보고서 제출 (도환, 도현), 한국해양대학교 이민투 교수님 논문 초안 피드백
+- **17일:** 격주 보고서 제출 (도환, 도현), 한국해양대학교 이민우 교수님 논문 초안 피드백
 - **18일:** 논문 리뷰, 세미나 발표 정리, 보안 솔루션 개발
   - 강성원: "BGP Anycast Tuner Intuitive Route Management for Anycast Services"
   - 최홍석: "Routing Around Congestion Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing"
@@ -101,16 +108,16 @@
 
 ## 오픈소스 가이드라인 작성, docker 컨테이너 배포 리스트
 - **Zeek**
-- **Arkime**~~(Reject)~~
 - **BCC**
 - **Suricata**
 - **BGP Tool**
 - **XDP Firewall**
+- **nDPI**
+- **ELK Stack**
+- **Arkime**~~(Reject)~~
 - **GPT-2**~~(Reject)~~
 - **BGP Anycast Tuner**~~(Reject)~~
-- **nDPI**
 - **Security Onion**~~(Reject)~~
-- **ELK Stack**
 
 ## 논문 핵심
 - **핵심:** 대용량 패킷을 BGP를 이용한 Anycast 구축으로 패킷을 분산시킴. BGP Flowspec, eBPF/XDP를 이용해 악성 패킷을 분류 및 필터링하여 대용량 패킷부터 세밀한 패킷까지 정교하게 필터링 하는 방법 제시. DPI를 통해 악성 행위 판단.

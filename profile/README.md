@@ -133,6 +133,10 @@
 ## flowchart
 ![72cf414dba06509d drawio](https://github.com/DDoSMitigation/.github/assets/102852097/36a365a0-3fb5-467c-84a2-1044236c013e)
 
+## WBS(Work Breakdown Structure)
+![image](https://github.com/user-attachments/assets/fffcad79-8823-4904-832c-125820919c9f)
+https://docs.google.com/spreadsheets/d/11F3qIhni2GcMfhcmm1Ut2klrN8I9nDpVzX6pdEuA2mY/edit?gid=60579148#gid=60579148
+
 ## XDP
 ![1](https://github.com/DDoSMitigation/main/assets/168432982/10a95c4a-39e9-4f48-adeb-2fcef664bdca)
 

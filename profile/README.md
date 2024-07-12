@@ -133,7 +133,7 @@
 ## flowchart
 ![72cf414dba06509d drawio](https://github.com/DDoSMitigation/.github/assets/102852097/36a365a0-3fb5-467c-84a2-1044236c013e)
 
-## WBS(Work Breakdown Structure)[WBS 작성]https://docs.google.com/spreadsheets/d/11F3qIhni2GcMfhcmm1Ut2klrN8I9nDpVzX6pdEuA2mY/edit?gid=60579148#gid=60579148
+## WBS(Work Breakdown Structure)[WBS 작성](https://docs.google.com/spreadsheets/d/11F3qIhni2GcMfhcmm1Ut2klrN8I9nDpVzX6pdEuA2mY/edit?gid=60579148#gid=60579148)
 ![image](https://github.com/user-attachments/assets/fffcad79-8823-4904-832c-125820919c9f)
 
 ## XDP

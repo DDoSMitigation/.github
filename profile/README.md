@@ -23,7 +23,7 @@
 - **임정훈** (조선대학교)
 - **지도환** (국립한밭대학교) [LinkedIn](www.linkedin.com/in/dohwan-ji-080a34301)
 - **김도현** (강릉원주대학교)
-- **라민우** (건국대학교)
+- **라민우** (건국대학교) [LinkedIn](https://www.linkedin.com/in/raminwo/)
 
 ## 네트워크 정보
 - **네트워크:** AS216362 (함준형)
